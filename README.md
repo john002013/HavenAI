@@ -51,6 +51,9 @@ Suitable for home automation, energy control, accessibility enhancements, and in
 
 4. Speech and text interfaces
 
+# Note
+It should be noted that a Serial communication established in this case is for arduino microcontroller whose communication process should be kept running when the tool is being called. Sending a different strings for the activation of different appliances.
+
 # Author
 
 John Babalola
